@@ -13,9 +13,9 @@ See how to use program, it also shared in READ ME file:
 2) There are two options, capture data and extract data. 
 3) Depending on the line of your desired data you need to decide by choosing 0 or 1 from "Which of the line you want to capture/extract from"
 
-3.a) 1 means that you desired data consists of two lines and you are going to capture/extract it using 1st line.
+    3.a) 1 means that you desired data consists of two lines and you are going to capture/extract it using 1st line.
 
-3.b) 0 means that your desired data consists of only one lie and you are going to use this line to capture/extract from your data. 
+    3.b) 0 means that your desired data consists of only one lie and you are going to use this line to capture/extract from your data. 
 
 4) When you decide a line please click "Select" button. 
 5) Select button is for choosing the each words from your line. You need to say the program which data is inconsistent. Such as, date, unique log id number, etc..
