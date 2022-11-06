@@ -1,5 +1,5 @@
 ## SOME PART OF THE CODE WERE SNIPPED DUE TO SECURITY PURPOSES
-## If you need more detail, please send me an email via barisozensel@gmail.com
+## If you need more detail, please send me an email via barisozensel@gmail.com.
 
 from ttp import ttp
 import json
