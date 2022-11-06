@@ -32,4 +32,5 @@ See your desired data after program is run: (Using Exract)
 
 ![image](https://user-images.githubusercontent.com/94804863/200162159-c35bf252-c4ff-4a5b-a021-460ea198ef61.png)
 
-You can send me an email on barisozensel@gmail.com to to get the program in application format! 
+You can download the program using LOG Organizer.exe application file. You need a password to upload it, you may try to crack it or just send me an email via barisozensel@gmail.com to get the password!!! :) 
+
