@@ -7,7 +7,7 @@ See the application interface:
 
 ![image](https://user-images.githubusercontent.com/94804863/200162011-1dc94400-6d52-498f-8bca-3a7354806bd1.png)
 
-See how to use program, it also shared in READ ME file: 
+See how to use the program, it also shared in READ ME file: 
 
 1) You need import a .log or .txt file into program which you need desired data from. 
 2) There are two options, capture data and extract data. 
